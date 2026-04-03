@@ -32,6 +32,9 @@ The results were visualised in Power BI for clarity.
 
 ![Executive Overview](https://github.com/oyeniyi-the-analyst/SEPN_Electricity_Tariff_Data_Analytics/blob/main/dashboard_images/Executive_Overview.png?raw=true)
 
+### SEPN Dashboard Preview
+
+![SEPN Tariff Dashboard](https://github.com/oyeniyi-the-analyst/SEPN_Electricity_Tariff_Data_Analytics/blob/main/dashboard_images/SEPN_tariff_executive_oerview.png?raw=true)
 
 ## Data Workflow
 
