@@ -28,10 +28,9 @@ The results were visualised in Power BI for clarity.
 
 ## Dashboard
 
-### SEPN Dashboard
-(Please see attached power BI dashboard screenshots in sepn-tariff-analytics folder).
+### SEPN Dashboard Preview
 
-https://github.com/oyeniyi-the-analyst/SEPN_Electricity_Tariff_Data_Analytics/blob/main/dashboard_images/Executive_Overview.png?raw=true
+![Executive Overview](https://github.com/oyeniyi-the-analyst/SEPN_Electricity_Tariff_Data_Analytics/blob/main/dashboard_images/Executive_Overview.png?raw=true)
 
 
 ## Data Workflow
